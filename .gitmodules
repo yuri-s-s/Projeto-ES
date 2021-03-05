@@ -4,3 +4,6 @@
 [submodule "ES-Backend"]
 	path = ES-Backend
 	url = https://github.com/yuri-s-s/ES-Backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yuri-s-s/ES-Backend.git
