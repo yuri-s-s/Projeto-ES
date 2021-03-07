@@ -7,3 +7,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/yuri-s-s/ES-Backend.git
+[submodule "real"]
+	path = real
+	url = https://github.com/google/gson.git
